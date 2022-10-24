@@ -1,4 +1,4 @@
-Olá, sou Nicolas, estudante de desenvolvimento front-end, atualmente estudando React.JS :)
+Olá, sou Nicolas, estudante de desenvolvimento front-end, atualmente estudando React e React Native :)
 <div align="center">
   <a href="https://github.com/nicolasmoraesdesouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasmoraesdesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
