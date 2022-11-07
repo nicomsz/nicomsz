@@ -5,7 +5,7 @@ Olá, sou Nicolas, estudante de desenvolvimento front-end, atualmente estudando 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmoraesdesouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Next-img" height="30" width="40" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png">
+  <img align="center" alt="Next-img" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="React-img" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="ReactNative-img" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TypeScript-img" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
