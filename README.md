@@ -9,8 +9,8 @@ Olá, sou Nicolas, estudante de desenvolvimento front-end, atualmente estudando 
   <img align="center" alt="React-img" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="TypeScript-img" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img align="center" alt="TailwindCSS-img" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Bootstrap-img" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">/
-  <img align="center" alt="Prisma-img" height="30" width="40" src="./icons/prisma-icon.svg">/
+  <img align="center" alt="Bootstrap-img" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Prisma-img" height="30" width="40" src="./icons/prisma-icon.svg">
 </div>
   
   ##
