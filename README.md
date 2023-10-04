@@ -24,7 +24,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 ### Tools:
@@ -36,7 +36,6 @@
 ### Other Knowledge:
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
-![React Testing Library](https://img.shields.io/badge/testing%20library-20232A?style=for-the-badge&logo=testing-library&logoColor=red)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=Prisma&logoColor=white)
 
