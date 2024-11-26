@@ -1,17 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560BAD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=560BAD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Nicolas+Moraes+de+Souza;I'm+18+years+old;I'm+from+Brazil,+Santa+Catarina;I'm+actually+studying+front-end+with+Next;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicomsz&show_icons=true&count_private=true&hide_border=true&title_color=560BAD&icon_color=560BAD&text_color=c9d1d9&bg_color=0d1117" alt="Nicolas Moraes de Souza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=560BAD&text_color=560BAD&bg_color=0d1117" />
-</div>
-
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=nicomsz&theme=high-contrast&hide_border=true&area=true&line=560BAD&point=560BAD&color=560BAD&radius=24&bg_color=0d1117)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nicomsz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">  
 <a href="https://www.instagram.com/nicomsz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
