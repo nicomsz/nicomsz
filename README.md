@@ -11,24 +11,6 @@
     Nicolas Moraes de Souza
   </h1>
 </div>
-### Stacks
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; 
-![GitHub](https://img.shields.io/badge/-GitHub-20232A?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-
-
-### Other Knowledge:
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=Prisma&logoColor=white)
-
 
   
 
