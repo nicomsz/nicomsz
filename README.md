@@ -6,7 +6,11 @@
 <a href="mailto:nicolasmdesouza@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
   
-
+<div align="center">
+  <h1>
+    Nicolas Moraes de Souza
+  </h1>
+</div>
 ### Main skills:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
