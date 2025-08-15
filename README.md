@@ -3,8 +3,8 @@
 <a href="https://www.linkedin.com/in/nicolas-moraes-de-souza-362522233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="mailto:nicolasmdesouza@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
-  
-<div align="center">
+<img width=100% height="100%" src="https://i.ibb.co/XZQDpLXT/tumblr-051380714965d3495a7aeff1fe43064a-41be3e31-1280-removebg-preview.png" />
+<div align="left">
   <h1>
     Nicolas Moraes de Souza
   </h1>
