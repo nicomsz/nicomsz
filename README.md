@@ -1,5 +1,6 @@
-
 <!-- Contatos -->
+<h1 style="text-decoration: none; border: none; outline: none; margin-bottom: 30px;">Nicolas Moraes de Souza</h1>
+
 <div align="center">  
   <a href="https://www.linkedin.com/in/nicolas-moraes-de-souza-362522233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -20,7 +21,9 @@
 
 <!-- Conteúdo principal -->
 <div>
-  <h1>Nicolas Moraes de Souza</h1>
+
+
+
 
   ### Main skills:
   <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white" />
