@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560BAD&height=120&section=header"/>
 
 <!-- Contatos -->
 <div align="center">  
@@ -10,14 +9,18 @@
   </a>
 </div>
 
-<!-- Imagem em background com position absolute -->
-<div style="position: relative; width: 100%; height: auto;">
-  <img src="https://i.ibb.co/XZQDpLXT/tumblr-051380714965d3495a7aeff1fe43064a-41be3e31-1280-removebg-preview.png"
-       style="position: absolute; top: 0; right: 0; z-index: 0; max-width: 400px; opacity: 0.2;" />
-  
-  <!-- Conteúdo principal -->
-  <div style="position: relative; z-index: 1; padding: 20px;">
-    <h1>Nicolas Moraes de Souza</h1>
+<!-- Imagem decorativa flutuante à direita -->
+<img 
+  src="https://i.ibb.co/XZQDpLXT/tumblr-051380714965d3495a7aeff1fe43064a-41be3e31-1280-removebg-preview.png" 
+  width="400"
+  height="600"
+  align="right"
+  style="z-index: 0; position: relative; opacity: 0.15; margin-left: 20px;"
+/>
+
+<!-- Conteúdo principal -->
+<div>
+  <h1>Nicolas Moraes de Souza</h1>
 
   ### Main skills:
   <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -31,10 +34,5 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=git&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-GitHub-20232A?style=for-the-badge&logo=github&labelColor=0D1117" />
-  </div>
 </div>
 
-<!-- Footer -->
-<div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560BAD&height=120&section=footer"/>
-</div>
